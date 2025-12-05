@@ -1,5 +1,4 @@
 ---
-layout: home
 permalink: /
 title: "Brief Biography"
 author_profile: true
