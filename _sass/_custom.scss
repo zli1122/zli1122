@@ -1,13 +1,9 @@
-// ===========================
-// Custom overrides
-// ===========================
-
-/* 1. Hide the big page header (the large title above your content) */
-.page__header {
+/* Hide any auto-generated page title/header block */
+.page__title, .page__header {
   display: none !important;
 }
 
-/* 2. Hide the gear icon (Font Awesome cog) in the top masthead */
+/* Optional: Hide the dark/light toggle gear icon */
 .masthead .fa-cog {
   display: none !important;
 }
