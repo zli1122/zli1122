@@ -25,7 +25,7 @@ description              : &description "Your Name's academic portfolio"   # Upd
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/me.jpg"
   name             : "Zhuoran Li"
   #pronouns         : # example: "she/her"  
   #bio              : "Short biography for the left-hand sidebar"
