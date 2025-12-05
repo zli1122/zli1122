@@ -20,9 +20,7 @@ My research focuses on cybersecurity, hardware security, cryptography, and priva
 ## Selected Publications
 
 - **[ASP-DAC ’26]** **Z. Li**, H. T. Asl, Y. Cai, E. Nouri, and D. Zhao, “SilentFlow: Leveraging Trusted Execution for Resource-Limited MPC via Hardware–Algorithm Co-design,” _Asia and South Pacific Design Automation Conference_, 2026.
-
 - **[ASP-DAC ’24]** **Z. Li** and D. Zhao, “DeepIncept: Diversify Performance Counters with Deep Learning to Detect Malware,” _Asia and South Pacific Design Automation Conference_, 2024.
-
 - **[DATE ’22]** **Z. Li** and D. Zhao, “ThingNet: A Lightweight Real-time Mirai IoT Variants Hunter through CPU Power Fingerprinting,” _Design, Automation & Test in Europe Conference & Exhibition_, 2022.
 
 
