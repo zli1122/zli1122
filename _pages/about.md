@@ -1,6 +1,9 @@
 ---
+layout: home
+title: ""                 # keep empty so it won’t render big title
 permalink: /
 author_profile: true
+header: false             # disables the large page header
 redirect_from: 
   - /about/
   - /about.html
