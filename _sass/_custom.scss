@@ -1,9 +1,13 @@
-/* Hide the dark/light theme toggle in the top navigation bar */
-#theme-toggle {
+// ===========================
+// Custom overrides
+// ===========================
+
+/* 1. Hide the big page header (the large title above your content) */
+.page__header {
   display: none !important;
 }
 
-/* Hide the big page title on the home page */
-.layout--home .page__title {
-  display: none;
+/* 2. Hide the gear icon (Font Awesome cog) in the top masthead */
+.masthead .fa-cog {
+  display: none !important;
 }
