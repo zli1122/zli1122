@@ -26,7 +26,7 @@ description              : &description "Your Name's academic portfolio"   # Upd
 author:
   # Biographic information
   name             : "Zhuoran Li"
-  avatar           : "images/123.jpg"
+  avatar           : "123.jpg"
   #pronouns         : # example: "she/her"  
   #bio              : "Short biography for the left-hand sidebar"
   #location         : "Earth"
